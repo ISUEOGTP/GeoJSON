@@ -1,0 +1,4561 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 4629,
+                "OperatType": "Confinement",
+                "AnimalUnit": 400,
+                "CattleBeFn": 0,
+                "CattleBeFe": 400
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    306124,
+                    4635749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 20262,
+                "OperatType": "Confinement",
+                "AnimalUnit": 590,
+                "CattleBeFn": 350,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    214153,
+                    4791646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 20485,
+                "OperatType": "Confinement",
+                "AnimalUnit": 960,
+                "CattleBeFn": 300,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    234918,
+                    4783349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 20532,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1000,
+                "CattleBeFn": 1000,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    354659,
+                    4806622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 20690,
+                "OperatType": "Confinement",
+                "AnimalUnit": 840,
+                "CattleBeFn": 840,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    435729,
+                    4503328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 21347,
+                "OperatType": "Confinement",
+                "AnimalUnit": 2700,
+                "CattleBeFn": 2700,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    461926,
+                    4657619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 21442,
+                "OperatType": "Confinement",
+                "AnimalUnit": 480,
+                "CattleBeFn": 480,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    382679,
+                    4798309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 21458,
+                "OperatType": "Confinement",
+                "AnimalUnit": 400,
+                "CattleBeFn": 400,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    253988,
+                    4761715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 21470,
+                "OperatType": "Confinement",
+                "AnimalUnit": 3080,
+                "CattleBeFn": 1500,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    380898,
+                    4802844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 21740,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1250,
+                "CattleBeFn": 1250,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    350314,
+                    4694104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 21887,
+                "OperatType": "Confinement",
+                "AnimalUnit": 950,
+                "CattleBeFn": 0,
+                "CattleBeFe": 950
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    232053,
+                    4704736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 22004,
+                "OperatType": "Confinement",
+                "AnimalUnit": 499,
+                "CattleBeFn": 499,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    280925,
+                    4747981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 22105,
+                "OperatType": "Confinement",
+                "AnimalUnit": 984,
+                "CattleBeFn": 48,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    443735,
+                    4698777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 22114,
+                "OperatType": "Confinement",
+                "AnimalUnit": 870,
+                "CattleBeFn": 270,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    608659,
+                    4768589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 22247,
+                "OperatType": "Confinement",
+                "AnimalUnit": 2000,
+                "CattleBeFn": 2000,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    316080,
+                    4817639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 22277,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1500,
+                "CattleBeFn": 1500,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    362369,
+                    4793885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 22401,
+                "OperatType": "Confinement",
+                "AnimalUnit": 990,
+                "CattleBeFn": 990,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    226168,
+                    4795143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 22533,
+                "OperatType": "Confinement",
+                "AnimalUnit": 985,
+                "CattleBeFn": 0,
+                "CattleBeFe": 21
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    607210,
+                    4679975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 22625,
+                "OperatType": "Confinement",
+                "AnimalUnit": 778,
+                "CattleBeFn": 288,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    337869,
+                    4646643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 22769,
+                "OperatType": "Confinement",
+                "AnimalUnit": 480,
+                "CattleBeFn": 480,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    606391,
+                    4533704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 22776,
+                "OperatType": "Confinement",
+                "AnimalUnit": 706,
+                "CattleBeFn": 400,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    391100,
+                    4816106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 22850,
+                "OperatType": "Confinement",
+                "AnimalUnit": 999,
+                "CattleBeFn": 999,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    286552,
+                    4643660
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 22890,
+                "OperatType": "Confinement",
+                "AnimalUnit": 2420,
+                "CattleBeFn": 800,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    492700,
+                    4726522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 22891,
+                "OperatType": "Confinement",
+                "AnimalUnit": 999,
+                "CattleBeFn": 999,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    283218,
+                    4631387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 22930,
+                "OperatType": "Confinement",
+                "AnimalUnit": 970,
+                "CattleBeFn": 0,
+                "CattleBeFe": 490
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    565335,
+                    4814320
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 23160,
+                "OperatType": "Confinement",
+                "AnimalUnit": 900,
+                "CattleBeFn": 0,
+                "CattleBeFe": 900
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    497329,
+                    4699696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 23160,
+                "OperatType": "Confinement",
+                "AnimalUnit": 900,
+                "CattleBeFn": 900,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    497329,
+                    4699696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 23212,
+                "OperatType": "Confinement",
+                "AnimalUnit": 360,
+                "CattleBeFn": 360,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    432286,
+                    4667055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 23215,
+                "OperatType": "Confinement",
+                "AnimalUnit": 7001,
+                "CattleBeFn": 7001,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    264240,
+                    4741791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 23226,
+                "OperatType": "Confinement",
+                "AnimalUnit": 480,
+                "CattleBeFn": 480,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    310689,
+                    4793469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 23428,
+                "OperatType": "Confinement",
+                "AnimalUnit": 2160,
+                "CattleBeFn": 400,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    406837,
+                    4802356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 23554,
+                "OperatType": "Confinement",
+                "AnimalUnit": 200,
+                "CattleBeFn": 200,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    219195,
+                    4790550
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 23635,
+                "OperatType": "Confinement",
+                "AnimalUnit": 490,
+                "CattleBeFn": 490,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    518068,
+                    4783734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 23817,
+                "OperatType": "Confinement",
+                "AnimalUnit": 425,
+                "CattleBeFn": 425,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    363096,
+                    4778886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 23821,
+                "OperatType": "Confinement",
+                "AnimalUnit": 740,
+                "CattleBeFn": 500,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    404568,
+                    4753782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 24130,
+                "OperatType": "Confinement",
+                "AnimalUnit": 800,
+                "CattleBeFn": 800,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    318237,
+                    4680626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 24204,
+                "OperatType": "Confinement",
+                "AnimalUnit": 625,
+                "CattleBeFn": 0,
+                "CattleBeFe": 250
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    336475,
+                    4650869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 24210,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1100,
+                "CattleBeFn": 1100,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    232461,
+                    4784718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 24310,
+                "OperatType": "Confinement",
+                "AnimalUnit": 640,
+                "CattleBeFn": 0,
+                "CattleBeFe": 200
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    290779,
+                    4770858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 24388,
+                "OperatType": "Confinement",
+                "AnimalUnit": 2080,
+                "CattleBeFn": 320,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    244722,
+                    4777342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 24447,
+                "OperatType": "Confinement",
+                "AnimalUnit": 4380,
+                "CattleBeFn": 4380,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    292899,
+                    4720308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 24485,
+                "OperatType": "Confinement",
+                "AnimalUnit": 4500,
+                "CattleBeFn": 4500,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    244710,
+                    4774628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 24545,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1070,
+                "CattleBeFn": 350,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    643602,
+                    4645745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 24548,
+                "OperatType": "Confinement",
+                "AnimalUnit": 600,
+                "CattleBeFn": 600,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    296894,
+                    4645615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 24582,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1880,
+                "CattleBeFn": 0,
+                "CattleBeFe": 800
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    566844,
+                    4771636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 24657,
+                "OperatType": "Confinement",
+                "AnimalUnit": 2400,
+                "CattleBeFn": 2000,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    230313,
+                    4776376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 24915,
+                "OperatType": "Confinement",
+                "AnimalUnit": 999,
+                "CattleBeFn": 999,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    292512,
+                    4814688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 24931,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1370,
+                "CattleBeFn": 800,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    224447,
+                    4792739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 25037,
+                "OperatType": "Confinement",
+                "AnimalUnit": 990,
+                "CattleBeFn": 990,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    337743,
+                    4797340
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 25132,
+                "OperatType": "Confinement",
+                "AnimalUnit": 710,
+                "CattleBeFn": 0,
+                "CattleBeFe": 260
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    225834,
+                    4782112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 25227,
+                "OperatType": "Confinement",
+                "AnimalUnit": 990,
+                "CattleBeFn": 990,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    727505,
+                    4651737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 25272,
+                "OperatType": "Confinement",
+                "AnimalUnit": 625,
+                "CattleBeFn": 625,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    272069,
+                    4723114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 25355,
+                "OperatType": "Confinement",
+                "AnimalUnit": 400,
+                "CattleBeFn": 400,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    302436,
+                    4576663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 25465,
+                "OperatType": "Confinement",
+                "AnimalUnit": 2000,
+                "CattleBeFn": 2000,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    351899,
+                    4752792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 25658,
+                "OperatType": "Confinement",
+                "AnimalUnit": 610,
+                "CattleBeFn": 610,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    497991,
+                    4683776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 25663,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1799,
+                "CattleBeFn": 999,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    341654,
+                    4609811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 25677,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1246,
+                "CattleBeFn": 250,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    541089,
+                    4596393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 25799,
+                "OperatType": "Confinement",
+                "AnimalUnit": 4700,
+                "CattleBeFn": 1500,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    220446,
+                    4767736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 25872,
+                "OperatType": "Confinement",
+                "AnimalUnit": 500,
+                "CattleBeFn": 500,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    454972,
+                    4679862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 25950,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1080,
+                "CattleBeFn": 480,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    372387,
+                    4528854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 26030,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1200,
+                "CattleBeFn": 600,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    217853,
+                    4820616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 26059,
+                "OperatType": "Confinement",
+                "AnimalUnit": 2168,
+                "CattleBeFn": 300,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    390009,
+                    4731120
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 26089,
+                "OperatType": "Confinement",
+                "AnimalUnit": 600,
+                "CattleBeFn": 0,
+                "CattleBeFe": 600
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    356581,
+                    4497226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 26097,
+                "OperatType": "Confinement",
+                "AnimalUnit": 900,
+                "CattleBeFn": 900,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    508319,
+                    4684035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 26162,
+                "OperatType": "Confinement",
+                "AnimalUnit": 95,
+                "CattleBeFn": 95,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    630648,
+                    4532884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 26266,
+                "OperatType": "Confinement",
+                "AnimalUnit": 11200,
+                "CattleBeFn": 11200,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    314452,
+                    4764204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 26341,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1080,
+                "CattleBeFn": 600,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    235478,
+                    4783455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 26397,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1200,
+                "CattleBeFn": 1200,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    257643,
+                    4790076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 26460,
+                "OperatType": "Confinement",
+                "AnimalUnit": 630,
+                "CattleBeFn": 0,
+                "CattleBeFe": 630
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    272186,
+                    4715925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 26476,
+                "OperatType": "Confinement",
+                "AnimalUnit": 2999,
+                "CattleBeFn": 0,
+                "CattleBeFe": 2999
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    234273,
+                    4725931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 26523,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1570,
+                "CattleBeFn": 0,
+                "CattleBeFe": 1570
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    611929,
+                    4722223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 26676,
+                "OperatType": "Confinement",
+                "AnimalUnit": 480,
+                "CattleBeFn": 480,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    360673,
+                    4807018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 26752,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1910,
+                "CattleBeFn": 950,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    225050,
+                    4764495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 26870,
+                "OperatType": "Confinement",
+                "AnimalUnit": 150,
+                "CattleBeFn": 150,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    222214,
+                    4776296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 26966,
+                "OperatType": "Confinement",
+                "AnimalUnit": 125,
+                "CattleBeFn": 125,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    289888,
+                    4667680
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 27025,
+                "OperatType": "Confinement",
+                "AnimalUnit": 4000,
+                "CattleBeFn": 4000,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    539398,
+                    4804123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 27029,
+                "OperatType": "Confinement",
+                "AnimalUnit": 490,
+                "CattleBeFn": 490,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    229939,
+                    4811150
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 27243,
+                "OperatType": "Confinement",
+                "AnimalUnit": 540,
+                "CattleBeFn": 300,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    347702,
+                    4787386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 27252,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1600,
+                "CattleBeFn": 1600,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    218068,
+                    4744055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 27367,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1649,
+                "CattleBeFn": 1649,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    221181,
+                    4744446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 27476,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1812,
+                "CattleBeFn": 420,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    326933,
+                    4626029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 27773,
+                "OperatType": "Confinement",
+                "AnimalUnit": 760,
+                "CattleBeFn": 260,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    525788,
+                    4578896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 27818,
+                "OperatType": "Confinement",
+                "AnimalUnit": 850,
+                "CattleBeFn": 850,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    537717,
+                    4768733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 27820,
+                "OperatType": "Confinement",
+                "AnimalUnit": 2290,
+                "CattleBeFn": 0,
+                "CattleBeFe": 970
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    538241,
+                    4807173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 28020,
+                "OperatType": "Confinement",
+                "AnimalUnit": 2996,
+                "CattleBeFn": 2996,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    456674,
+                    4705381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 28067,
+                "OperatType": "Confinement",
+                "AnimalUnit": 990,
+                "CattleBeFn": 990,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    633286,
+                    4714557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 28251,
+                "OperatType": "Confinement",
+                "AnimalUnit": 520,
+                "CattleBeFn": 520,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    698130,
+                    4655429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 28439,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1200,
+                "CattleBeFn": 1200,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    249898,
+                    4715150
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 28440,
+                "OperatType": "Confinement",
+                "AnimalUnit": 990,
+                "CattleBeFn": 990,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    274644,
+                    4584207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 28554,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1065,
+                "CattleBeFn": 625,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    343650,
+                    4619150
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 28599,
+                "OperatType": "Confinement",
+                "AnimalUnit": 480,
+                "CattleBeFn": 480,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    237615,
+                    4740621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 28612,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1450,
+                "CattleBeFn": 0,
+                "CattleBeFe": 1450
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    360042,
+                    4600815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 28655,
+                "OperatType": "Confinement",
+                "AnimalUnit": 500,
+                "CattleBeFn": 500,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    285463,
+                    4759646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 28669,
+                "OperatType": "Confinement",
+                "AnimalUnit": 270,
+                "CattleBeFn": 270,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    332412,
+                    4673045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 28690,
+                "OperatType": "Confinement",
+                "AnimalUnit": 40,
+                "CattleBeFn": 0,
+                "CattleBeFe": 40
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    630346,
+                    4567780
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 28759,
+                "OperatType": "Confinement",
+                "AnimalUnit": 2660,
+                "CattleBeFn": 1700,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    519926,
+                    4793828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 28794,
+                "OperatType": "Confinement",
+                "AnimalUnit": 2580,
+                "CattleBeFn": 2000,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    220912,
+                    4805827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 28852,
+                "OperatType": "Confinement",
+                "AnimalUnit": 2100,
+                "CattleBeFn": 2000,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    328188,
+                    4771924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 28865,
+                "OperatType": "Confinement",
+                "AnimalUnit": 990,
+                "CattleBeFn": 990,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    463973,
+                    4705328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 29008,
+                "OperatType": "Confinement",
+                "AnimalUnit": 480,
+                "CattleBeFn": 480,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    294209,
+                    4702014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 29018,
+                "OperatType": "Confinement",
+                "AnimalUnit": 990,
+                "CattleBeFn": 990,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    286891,
+                    4643532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 29039,
+                "OperatType": "Confinement",
+                "AnimalUnit": 650,
+                "CattleBeFn": 650,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    288057,
+                    4700630
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 29040,
+                "OperatType": "Confinement",
+                "AnimalUnit": 2190,
+                "CattleBeFn": 2190,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    475385,
+                    4650499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 29068,
+                "OperatType": "Confinement",
+                "AnimalUnit": 2000,
+                "CattleBeFn": 2000,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    406530,
+                    4733516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 29259,
+                "OperatType": "Confinement",
+                "AnimalUnit": 300,
+                "CattleBeFn": 0,
+                "CattleBeFe": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    228447,
+                    4812610
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 29286,
+                "OperatType": "Confinement",
+                "AnimalUnit": 600,
+                "CattleBeFn": 600,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    418876,
+                    4621535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 29391,
+                "OperatType": "Confinement",
+                "AnimalUnit": 155,
+                "CattleBeFn": 0,
+                "CattleBeFe": 155
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    219925,
+                    4794191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 29441,
+                "OperatType": "Confinement",
+                "AnimalUnit": 2440,
+                "CattleBeFn": 2200,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    287439,
+                    4705338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 29533,
+                "OperatType": "Confinement",
+                "AnimalUnit": 2300,
+                "CattleBeFn": 500,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    489794,
+                    4743480
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 29544,
+                "OperatType": "Confinement",
+                "AnimalUnit": 880,
+                "CattleBeFn": 880,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    394229,
+                    4813648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 29583,
+                "OperatType": "Confinement",
+                "AnimalUnit": 900,
+                "CattleBeFn": 900,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    221912,
+                    4808343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 29603,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1250,
+                "CattleBeFn": 0,
+                "CattleBeFe": 1250
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    243199,
+                    4769895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 29662,
+                "OperatType": "Confinement",
+                "AnimalUnit": 960,
+                "CattleBeFn": 960,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    287453,
+                    4519982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 29806,
+                "OperatType": "Confinement",
+                "AnimalUnit": 300,
+                "CattleBeFn": 300,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    233964,
+                    4809450
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 29846,
+                "OperatType": "Confinement",
+                "AnimalUnit": 3300,
+                "CattleBeFn": 1300,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    489759,
+                    4761874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 29851,
+                "OperatType": "Confinement",
+                "AnimalUnit": 700,
+                "CattleBeFn": 700,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    226484,
+                    4793156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 29857,
+                "OperatType": "Confinement",
+                "AnimalUnit": 475,
+                "CattleBeFn": 475,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    285830,
+                    4759815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 29984,
+                "OperatType": "Confinement",
+                "AnimalUnit": 950,
+                "CattleBeFn": 0,
+                "CattleBeFe": 950
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    227968,
+                    4791997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 30023,
+                "OperatType": "Confinement",
+                "AnimalUnit": 720,
+                "CattleBeFn": 720,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    661998,
+                    4682240
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 30033,
+                "OperatType": "Confinement",
+                "AnimalUnit": 600,
+                "CattleBeFn": 600,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    520604,
+                    4691772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 30170,
+                "OperatType": "Confinement",
+                "AnimalUnit": 585,
+                "CattleBeFn": 585,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    455473,
+                    4645592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 30240,
+                "OperatType": "Confinement",
+                "AnimalUnit": 500,
+                "CattleBeFn": 500,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    397283,
+                    4598350
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 30366,
+                "OperatType": "Confinement",
+                "AnimalUnit": 210,
+                "CattleBeFn": 210,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    586294,
+                    4602457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 30366,
+                "OperatType": "Confinement",
+                "AnimalUnit": 850,
+                "CattleBeFn": 0,
+                "CattleBeFe": 850
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    586294,
+                    4602457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 30405,
+                "OperatType": "Confinement",
+                "AnimalUnit": 575,
+                "CattleBeFn": 0,
+                "CattleBeFe": 174
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    560153,
+                    4730758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 30474,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1900,
+                "CattleBeFn": 1900,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    266302,
+                    4781406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 31064,
+                "OperatType": "Confinement",
+                "AnimalUnit": 3080,
+                "CattleBeFn": 3080,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    262431,
+                    4787987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 31201,
+                "OperatType": "Confinement",
+                "AnimalUnit": 150,
+                "CattleBeFn": 0,
+                "CattleBeFe": 150
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    398613,
+                    4567975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 31211,
+                "OperatType": "Confinement",
+                "AnimalUnit": 399,
+                "CattleBeFn": 399,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    302946,
+                    4785817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 31378,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1601,
+                "CattleBeFn": 1225,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    233545,
+                    4780986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 31420,
+                "OperatType": "Confinement",
+                "AnimalUnit": 300,
+                "CattleBeFn": 300,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    242800,
+                    4801145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 31520,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1500,
+                "CattleBeFn": 1500,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    283770,
+                    4788216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 31593,
+                "OperatType": "Confinement",
+                "AnimalUnit": 999,
+                "CattleBeFn": 999,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    321395,
+                    4799793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 31613,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1100,
+                "CattleBeFn": 1100,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    250926,
+                    4808755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 31642,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1440,
+                "CattleBeFn": 960,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    336429,
+                    4667787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 31690,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1076.4,
+                "CattleBeFn": 16,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    629178,
+                    4798993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 31747,
+                "OperatType": "Confinement",
+                "AnimalUnit": 990,
+                "CattleBeFn": 990,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    288603,
+                    4707417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 31930,
+                "OperatType": "Confinement",
+                "AnimalUnit": 800,
+                "CattleBeFn": 800,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    723210,
+                    4668178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 32281,
+                "OperatType": "Confinement",
+                "AnimalUnit": 5320,
+                "CattleBeFn": 4000,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    537630,
+                    4796588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 32284,
+                "OperatType": "Confinement",
+                "AnimalUnit": 957,
+                "CattleBeFn": 0,
+                "CattleBeFe": 125
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    232511,
+                    4802938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 32550,
+                "OperatType": "Confinement",
+                "AnimalUnit": 900,
+                "CattleBeFn": 0,
+                "CattleBeFe": 900
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    649490,
+                    4587598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 32847,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1280,
+                "CattleBeFn": 1280,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    277173,
+                    4783092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 32898,
+                "OperatType": "Confinement",
+                "AnimalUnit": 100,
+                "CattleBeFn": 100,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    217883,
+                    4735629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 33084,
+                "OperatType": "Confinement",
+                "AnimalUnit": 756,
+                "CattleBeFn": 756,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    442229,
+                    4673374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 33408,
+                "OperatType": "Confinement",
+                "AnimalUnit": 180,
+                "CattleBeFn": 180,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    323678,
+                    4749644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 33477,
+                "OperatType": "Confinement",
+                "AnimalUnit": 498.4,
+                "CattleBeFn": 350,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    300390,
+                    4734966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 33865,
+                "OperatType": "Confinement",
+                "AnimalUnit": 760,
+                "CattleBeFn": 760,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    290578,
+                    4723079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 33957,
+                "OperatType": "Confinement",
+                "AnimalUnit": 4180,
+                "CattleBeFn": 4180,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    237032,
+                    4687843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 34127,
+                "OperatType": "Confinement",
+                "AnimalUnit": 2760,
+                "CattleBeFn": 2760,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    454549,
+                    4766167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 34249,
+                "OperatType": "Confinement",
+                "AnimalUnit": 2592,
+                "CattleBeFn": 2592,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    562526,
+                    4770392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 34580,
+                "OperatType": "Confinement",
+                "AnimalUnit": 990,
+                "CattleBeFn": 990,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    271065,
+                    4794590
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 35275,
+                "OperatType": "Confinement",
+                "AnimalUnit": 600,
+                "CattleBeFn": 600,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    467785,
+                    4628468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 35551,
+                "OperatType": "Confinement",
+                "AnimalUnit": 485,
+                "CattleBeFn": 420,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    581199,
+                    4711568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 35727,
+                "OperatType": "Confinement",
+                "AnimalUnit": 500,
+                "CattleBeFn": 500,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    381536,
+                    4805734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 35820,
+                "OperatType": "Confinement",
+                "AnimalUnit": 120,
+                "CattleBeFn": 120,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    245567,
+                    4813776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 35862,
+                "OperatType": "Confinement",
+                "AnimalUnit": 960,
+                "CattleBeFn": 340,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    386114,
+                    4675047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 36409,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1760,
+                "CattleBeFn": 800,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    321893,
+                    4673909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 36636,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1760,
+                "CattleBeFn": 400,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    281666,
+                    4779535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 38232,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1712,
+                "CattleBeFn": 880,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    379594,
+                    4779993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 38916,
+                "OperatType": "Confinement",
+                "AnimalUnit": 2440,
+                "CattleBeFn": 480,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    271513,
+                    4818451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 41788,
+                "OperatType": "Confinement",
+                "AnimalUnit": 600,
+                "CattleBeFn": 600,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    392884,
+                    4515243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 41927,
+                "OperatType": "Confinement",
+                "AnimalUnit": 290,
+                "CattleBeFn": 0,
+                "CattleBeFe": 290
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    275363,
+                    4784144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 42459,
+                "OperatType": "Confinement",
+                "AnimalUnit": 500,
+                "CattleBeFn": 500,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    448500,
+                    4783255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 45510,
+                "OperatType": "Confinement",
+                "AnimalUnit": 5000,
+                "CattleBeFn": 5000,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    241349,
+                    4774517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 48861,
+                "OperatType": "Confinement",
+                "AnimalUnit": 584,
+                "CattleBeFn": 200,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    586195,
+                    4767125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 50117,
+                "OperatType": "Confinement",
+                "AnimalUnit": 400,
+                "CattleBeFn": 400,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    247968,
+                    4795683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 50675,
+                "OperatType": "Confinement",
+                "AnimalUnit": 900,
+                "CattleBeFn": 900,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    323552,
+                    4585512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 51849,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1400,
+                "CattleBeFn": 1400,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    353749,
+                    4716564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 52640,
+                "OperatType": "Confinement",
+                "AnimalUnit": 220,
+                "CattleBeFn": 0,
+                "CattleBeFe": 220
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    640949,
+                    4611565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 53100,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1360,
+                "CattleBeFn": 560,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    278521,
+                    4736984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 53196,
+                "OperatType": "Confinement",
+                "AnimalUnit": 320,
+                "CattleBeFn": 320,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    408444,
+                    4794439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 53899,
+                "OperatType": "Confinement",
+                "AnimalUnit": 700,
+                "CattleBeFn": 700,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    245709,
+                    4770085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 53956,
+                "OperatType": "Confinement",
+                "AnimalUnit": 990,
+                "CattleBeFn": 990,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    239291,
+                    4760602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 54767,
+                "OperatType": "Confinement",
+                "AnimalUnit": 700,
+                "CattleBeFn": 700,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    379678,
+                    4784029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 55503,
+                "OperatType": "Confinement",
+                "AnimalUnit": 2560,
+                "CattleBeFn": 2560,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    272974,
+                    4722419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 55690,
+                "OperatType": "Confinement",
+                "AnimalUnit": 999,
+                "CattleBeFn": 999,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    330213,
+                    4745157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 56027,
+                "OperatType": "Confinement",
+                "AnimalUnit": 360,
+                "CattleBeFn": 360,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    572694,
+                    4799602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 56243,
+                "OperatType": "Confinement",
+                "AnimalUnit": 57.8,
+                "CattleBeFn": 0,
+                "CattleBeFe": 27
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    357163,
+                    4792941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 56425,
+                "OperatType": "Confinement",
+                "AnimalUnit": 445,
+                "CattleBeFn": 0,
+                "CattleBeFe": 445
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    700639,
+                    4691416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 57810,
+                "OperatType": "Confinement",
+                "AnimalUnit": 4888,
+                "CattleBeFn": 4888,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    678028,
+                    4617849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 57871,
+                "OperatType": "Confinement",
+                "AnimalUnit": 200,
+                "CattleBeFn": 0,
+                "CattleBeFe": 200
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    249127,
+                    4763140
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 59222,
+                "OperatType": "Confinement",
+                "AnimalUnit": 750,
+                "CattleBeFn": 750,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    283326,
+                    4727975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 59762,
+                "OperatType": "Confinement",
+                "AnimalUnit": 765,
+                "CattleBeFn": 0,
+                "CattleBeFe": 425
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    591273,
+                    4650724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 59803,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1998,
+                "CattleBeFn": 728,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    453853,
+                    4605126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 59805,
+                "OperatType": "Confinement",
+                "AnimalUnit": 856,
+                "CattleBeFn": 856,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    397815,
+                    4750933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 60271,
+                "OperatType": "Confinement",
+                "AnimalUnit": 700,
+                "CattleBeFn": 0,
+                "CattleBeFe": 700
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    397868,
+                    4676633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 60677,
+                "OperatType": "Confinement",
+                "AnimalUnit": 360,
+                "CattleBeFn": 360,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    397078,
+                    4602277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 60932,
+                "OperatType": "Confinement",
+                "AnimalUnit": 450,
+                "CattleBeFn": 450,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    525970,
+                    4793863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 61553,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1600,
+                "CattleBeFn": 1600,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    319658,
+                    4799217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 61633,
+                "OperatType": "Confinement",
+                "AnimalUnit": 300,
+                "CattleBeFn": 300,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    618013,
+                    4724827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 65123,
+                "OperatType": "Confinement",
+                "AnimalUnit": 3000,
+                "CattleBeFn": 3000,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    240414,
+                    4770257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 67998,
+                "OperatType": "Confinement",
+                "AnimalUnit": 800,
+                "CattleBeFn": 800,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    228533,
+                    4805082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 69894,
+                "OperatType": "Confinement",
+                "AnimalUnit": 999,
+                "CattleBeFn": 999,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    287450,
+                    4767452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 70003,
+                "OperatType": "Confinement",
+                "AnimalUnit": 499,
+                "CattleBeFn": 499,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    219340,
+                    4792703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 70985,
+                "OperatType": "Confinement",
+                "AnimalUnit": 450,
+                "CattleBeFn": 450,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    232789,
+                    4800465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 71148,
+                "OperatType": "Confinement",
+                "AnimalUnit": 300,
+                "CattleBeFn": 300,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    228378,
+                    4811549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 72016,
+                "OperatType": "Confinement",
+                "AnimalUnit": 850,
+                "CattleBeFn": 850,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    216492,
+                    4812943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 73084,
+                "OperatType": "Confinement",
+                "AnimalUnit": 300,
+                "CattleBeFn": 300,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    596095,
+                    4772630
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 73164,
+                "OperatType": "Confinement",
+                "AnimalUnit": 95,
+                "CattleBeFn": 0,
+                "CattleBeFe": 95
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    270864,
+                    4735522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 73226,
+                "OperatType": "Confinement",
+                "AnimalUnit": 100,
+                "CattleBeFn": 100,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    600114,
+                    4775075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 73262,
+                "OperatType": "Confinement",
+                "AnimalUnit": 830,
+                "CattleBeFn": 830,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    623476,
+                    4766406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 73674,
+                "OperatType": "Confinement",
+                "AnimalUnit": 600,
+                "CattleBeFn": 600,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    222525,
+                    4805349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 74108,
+                "OperatType": "Confinement",
+                "AnimalUnit": 310,
+                "CattleBeFn": 210,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    241593,
+                    4780376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 74158,
+                "OperatType": "Confinement",
+                "AnimalUnit": 145,
+                "CattleBeFn": 145,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    221262,
+                    4821500
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 74674,
+                "OperatType": "Confinement",
+                "AnimalUnit": 2999,
+                "CattleBeFn": 2999,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    460204,
+                    4706596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 75710,
+                "OperatType": "Confinement",
+                "AnimalUnit": 900,
+                "CattleBeFn": 0,
+                "CattleBeFe": 900
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    718944,
+                    4645196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 76387,
+                "OperatType": "Confinement",
+                "AnimalUnit": 990,
+                "CattleBeFn": 990,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    313773,
+                    4523293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 77368,
+                "OperatType": "Confinement",
+                "AnimalUnit": 650,
+                "CattleBeFn": 650,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    229843,
+                    4801992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 77767,
+                "OperatType": "Confinement",
+                "AnimalUnit": 2996,
+                "CattleBeFn": 2996,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    461878,
+                    4711387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 82569,
+                "OperatType": "Confinement",
+                "AnimalUnit": 400,
+                "CattleBeFn": 400,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    227241,
+                    4792087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 82626,
+                "OperatType": "Confinement",
+                "AnimalUnit": 320,
+                "CattleBeFn": 320,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    224252,
+                    4791772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 82774,
+                "OperatType": "Confinement",
+                "AnimalUnit": 600,
+                "CattleBeFn": 600,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    361216,
+                    4721700
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 84144,
+                "OperatType": "Confinement",
+                "AnimalUnit": 625,
+                "CattleBeFn": 625,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    342163,
+                    4619575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 84313,
+                "OperatType": "Confinement",
+                "AnimalUnit": 816,
+                "CattleBeFn": 560,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    583851,
+                    4687712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 84380,
+                "OperatType": "Confinement",
+                "AnimalUnit": 700,
+                "CattleBeFn": 700,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    367731,
+                    4694909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 84851,
+                "OperatType": "Confinement",
+                "AnimalUnit": 990,
+                "CattleBeFn": 990,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    322772,
+                    4640452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 84938,
+                "OperatType": "Confinement",
+                "AnimalUnit": 742,
+                "CattleBeFn": 550,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    418497,
+                    4795679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 85014,
+                "OperatType": "Confinement",
+                "AnimalUnit": 650,
+                "CattleBeFn": 650,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    342939,
+                    4617704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 85155,
+                "OperatType": "Confinement",
+                "AnimalUnit": 2800,
+                "CattleBeFn": 1000,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    224903,
+                    4802002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 85856,
+                "OperatType": "Confinement",
+                "AnimalUnit": 250,
+                "CattleBeFn": 250,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    278713,
+                    4749633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 88229,
+                "OperatType": "Confinement",
+                "AnimalUnit": 600,
+                "CattleBeFn": 600,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    354844,
+                    4678990
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 88666,
+                "OperatType": "Confinement",
+                "AnimalUnit": 950,
+                "CattleBeFn": 950,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    261817,
+                    4819129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 88832,
+                "OperatType": "Confinement",
+                "AnimalUnit": 600,
+                "CattleBeFn": 600,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    377710,
+                    4504157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 89221,
+                "OperatType": "Confinement",
+                "AnimalUnit": 366,
+                "CattleBeFn": 240,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    246508,
+                    4781552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 91533,
+                "OperatType": "Confinement",
+                "AnimalUnit": 529.6,
+                "CattleBeFn": 480,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    436311,
+                    4740664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 91573,
+                "OperatType": "Confinement",
+                "AnimalUnit": 450,
+                "CattleBeFn": 290,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    244499,
+                    4802729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 91680,
+                "OperatType": "Confinement",
+                "AnimalUnit": 275,
+                "CattleBeFn": 275,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    276873,
+                    4680408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 91759,
+                "OperatType": "Confinement",
+                "AnimalUnit": 600,
+                "CattleBeFn": 200,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    390774,
+                    4683124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 92055,
+                "OperatType": "Confinement",
+                "AnimalUnit": 300,
+                "CattleBeFn": 200,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    215978,
+                    4744939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 92676,
+                "OperatType": "Confinement",
+                "AnimalUnit": 200,
+                "CattleBeFn": 200,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    246784,
+                    4818877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 93143,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1150,
+                "CattleBeFn": 1150,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    568740,
+                    4766554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 93621,
+                "OperatType": "Confinement",
+                "AnimalUnit": 160,
+                "CattleBeFn": 0,
+                "CattleBeFe": 160
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    255338,
+                    4813726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 94177,
+                "OperatType": "Confinement",
+                "AnimalUnit": 800,
+                "CattleBeFn": 800,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    568386,
+                    4624754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 94177,
+                "OperatType": "Confinement",
+                "AnimalUnit": 750,
+                "CattleBeFn": 750,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    568386,
+                    4624754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 94286,
+                "OperatType": "Confinement",
+                "AnimalUnit": 986,
+                "CattleBeFn": 986,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    460609,
+                    4498268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 94343,
+                "OperatType": "Confinement",
+                "AnimalUnit": 750,
+                "CattleBeFn": 750,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    218838,
+                    4796604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 94420,
+                "OperatType": "Confinement",
+                "AnimalUnit": 640,
+                "CattleBeFn": 640,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    531575,
+                    4692909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 94966,
+                "OperatType": "Confinement",
+                "AnimalUnit": 120,
+                "CattleBeFn": 75,
+                "CattleBeFe": 45
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    249626,
+                    4782637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 95087,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1600,
+                "CattleBeFn": 1200,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    572581,
+                    4698055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 95092,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1210,
+                "CattleBeFn": 1170,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    567133,
+                    4765742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 95389,
+                "OperatType": "Confinement",
+                "AnimalUnit": 740,
+                "CattleBeFn": 740,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    394904,
+                    4526980
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 95599,
+                "OperatType": "Confinement",
+                "AnimalUnit": 990,
+                "CattleBeFn": 990,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    542084,
+                    4801748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 95607,
+                "OperatType": "Confinement",
+                "AnimalUnit": 580,
+                "CattleBeFn": 300,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    605841,
+                    4771927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 95681,
+                "OperatType": "Confinement",
+                "AnimalUnit": 100,
+                "CattleBeFn": 100,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    298359,
+                    4786314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 95704,
+                "OperatType": "Confinement",
+                "AnimalUnit": 620,
+                "CattleBeFn": 400,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    229181,
+                    4811511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 95855,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1665,
+                "CattleBeFn": 1133,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    573526,
+                    4801066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 96394,
+                "OperatType": "Confinement",
+                "AnimalUnit": 250,
+                "CattleBeFn": 250,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    339845,
+                    4647127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 96780,
+                "OperatType": "Confinement",
+                "AnimalUnit": 320,
+                "CattleBeFn": 320,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    331888,
+                    4811925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 96902,
+                "OperatType": "Confinement",
+                "AnimalUnit": 80,
+                "CattleBeFn": 80,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    278178,
+                    4751572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 97008,
+                "OperatType": "Confinement",
+                "AnimalUnit": 300,
+                "CattleBeFn": 300,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    269636,
+                    4738084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 97508,
+                "OperatType": "Confinement",
+                "AnimalUnit": 498,
+                "CattleBeFn": 0,
+                "CattleBeFe": 498
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    239541,
+                    4777166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 97617,
+                "OperatType": "Confinement",
+                "AnimalUnit": 668,
+                "CattleBeFn": 0,
+                "CattleBeFe": 668
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    381903,
+                    4678440
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 97727,
+                "OperatType": "Confinement",
+                "AnimalUnit": 370,
+                "CattleBeFn": 370,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    252800,
+                    4792849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 97747,
+                "OperatType": "Confinement",
+                "AnimalUnit": 400,
+                "CattleBeFn": 400,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    278805,
+                    4745113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 97779,
+                "OperatType": "Confinement",
+                "AnimalUnit": 260,
+                "CattleBeFn": 260,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    660215,
+                    4706775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 99327,
+                "OperatType": "Confinement",
+                "AnimalUnit": 750,
+                "CattleBeFn": 750,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    513349,
+                    4800016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 99461,
+                "OperatType": "Confinement",
+                "AnimalUnit": 499,
+                "CattleBeFn": 499,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    505018,
+                    4507065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 101245,
+                "OperatType": "Confinement",
+                "AnimalUnit": 200,
+                "CattleBeFn": 1400,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    275001,
+                    4803001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 101250,
+                "OperatType": "Confinement",
+                "AnimalUnit": 990,
+                "CattleBeFn": 990,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    673674,
+                    4683450
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 101978,
+                "OperatType": "Confinement",
+                "AnimalUnit": 999,
+                "CattleBeFn": 999,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    339575,
+                    4698799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 102029,
+                "OperatType": "Confinement",
+                "AnimalUnit": 250,
+                "CattleBeFn": 250,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    651931,
+                    4537642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 102210,
+                "OperatType": "Confinement",
+                "AnimalUnit": 1010,
+                "CattleBeFn": 1010,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    561969,
+                    4722563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 102462,
+                "OperatType": "Confinement",
+                "AnimalUnit": 800,
+                "CattleBeFn": 800,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    291050,
+                    4595124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 104537,
+                "OperatType": "Confinement",
+                "AnimalUnit": 620,
+                "CattleBeFn": 450,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    525520,
+                    4742698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 177551,
+                "OperatType": "Confinement",
+                "AnimalUnit": 620,
+                "CattleBeFn": 620,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    326698,
+                    4590863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 184723,
+                "OperatType": "Confinement",
+                "AnimalUnit": 480,
+                "CattleBeFn": 480,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    432191,
+                    4667379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 196622,
+                "OperatType": "Confinement",
+                "AnimalUnit": 75,
+                "CattleBeFn": 75,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    606415,
+                    4789614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 199547,
+                "OperatType": "Confinement",
+                "AnimalUnit": 300,
+                "CattleBeFn": 300,
+                "CattleBeFe": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    651122,
+                    4537633
+                ]
+            }
+        }
+    ]
+}
