@@ -1,2 +1,4 @@
 # GeoJSON Files
-This repository holds the various GeoJSON files used in GIS task sheets. A list of task sheets can be found here - http://www.extension.iastate.edu/communities/gis/quicktasksheets
+This repository holds the various GeoJSON files used in task sheets where it is necessary to link to a live web data source.
+
+A list of task sheets can be found here - https://www.extension.iastate.edu/communities/gis-and-mapping-task-sheets
